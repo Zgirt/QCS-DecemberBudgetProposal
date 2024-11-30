@@ -15,7 +15,7 @@ Overview
 -----------------------------------------------
 Qubic Core Services (QCS) is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations.
 
-This is a follow-up request from the approved Qubic Core Services base budget proposal.
+This is a follow-up request from the approved Qubic Core Services base budget proposal. (https://github.com/Zgirt/QCS-Revised-Budget/blob/d26d24e/README.md)
 
 
 Now we request the budget for the month of December.
