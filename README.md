@@ -33,6 +33,6 @@ Table 2
 
 ![image](https://github.com/user-attachments/assets/8ea68fea-9992-448f-a23f-e79f6be10714)
 
-the 3 day moving average on daily. Higher is risky and lower not appropriate in our opinion. excess budget due to price move will be rolled forward.
+USD 3000/bn because its the 3 day moving average on daily. Higher is risky and lower not appropriate in our opinion. excess budget due to price move will be rolled forward.
 
 
