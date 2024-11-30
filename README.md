@@ -1,4 +1,4 @@
-# Qubic Core Services - Budget Proposal
+# Qubic Core Services - Budget Request
 
 
 Proposal: Request to approve the December Qubic Core Services budget proposal
